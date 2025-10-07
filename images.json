@@ -1,5 +1,16 @@
 [
     {
+        "name": "doodlin.webp",
+        "path": "uploads/doodlin.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/doodlin.webp",
+        "display_datetime": [
+            "2024-05-23(Thu)00:00",
+            1716422400
+        ],
+        "uploaded_at": 1759866886,
+        "description": "Doodlin' in the Living room\r\n\r\nI think there's an actual fish drawing I made that I based this on. Can't find it tho."
+    },
+    {
         "name": "desMutant.webp",
         "path": "uploads/desMutant.webp",
         "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/desMutant.webp",
@@ -11,14 +22,14 @@
         "description": "Desert Mutant\r\n\r\nI could never come up with a cool title for this one."
     },
     {
-        "name": "doodlin.webp",
-        "path": "uploads/doodlin.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/doodlin.webp",
+        "name": "003.webp",
+        "path": "uploads/003.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/003.webp",
         "display_datetime": [
-            "2024-05-23(Thu)00:00",
-            1716422400
+            "2024-08-10(Sat)00:00",
+            1723248000
         ],
-        "uploaded_at": 1759866886,
-        "description": "Doodlin' in the Living room\r\n\r\nI think there's an actual fish drawing I made that I based this on. Can't find it tho."
+        "uploaded_at": 1759867289,
+        "description": "003\r\n\r\nPart of the 'miscellaneous numbered' series.\r\nI dunno what this is either, but it came out kind of nice."
     }
 ]
