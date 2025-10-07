@@ -1,36 +1,14 @@
 [
     {
-        "name": "005.webp",
-        "path": "uploads/005.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/005.webp",
+        "name": "007.webp",
+        "path": "uploads/007.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/007.webp",
         "display_datetime": [
-            "2024-08-12(Mon)00:00",
-            1723420800
+            "2024-09-17(Tue)00:00",
+            1726531200
         ],
-        "uploaded_at": 1759867365,
-        "description": "005 - Mountainous Landscape\r\n\r\nOne of my favorite pieces still."
-    },
-    {
-        "name": "doodlin.webp",
-        "path": "uploads/doodlin.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/doodlin.webp",
-        "display_datetime": [
-            "2024-05-23(Thu)00:00",
-            1716422400
-        ],
-        "uploaded_at": 1759866886,
-        "description": "Doodlin' in the Living room\r\n\r\nI think there's an actual fish drawing I made that I based this on. Can't find it tho."
-    },
-    {
-        "name": "desMutant.webp",
-        "path": "uploads/desMutant.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/desMutant.webp",
-        "display_datetime": [
-            "2024-04-29(Mon)00:00",
-            1714348800
-        ],
-        "uploaded_at": 1759866524,
-        "description": "Desert Mutant\r\n\r\nI could never come up with a cool title for this one."
+        "uploaded_at": 1759867462,
+        "description": "007 - Twirling Clouds"
     },
     {
         "name": "003.webp",
@@ -44,14 +22,47 @@
         "description": "003\r\n\r\nPart of the 'miscellaneous numbered' series.\r\nI dunno what this is either, but it came out kind of nice."
     },
     {
-        "name": "007.webp",
-        "path": "uploads/007.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/007.webp",
+        "name": "desMutant.webp",
+        "path": "uploads/desMutant.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/desMutant.webp",
         "display_datetime": [
-            "2024-09-17(Tue)00:00",
-            1726531200
+            "2024-04-29(Mon)00:00",
+            1714348800
         ],
-        "uploaded_at": 1759867462,
-        "description": "007 - Twirling Clouds"
+        "uploaded_at": 1759866524,
+        "description": "Desert Mutant\r\n\r\nI could never come up with a cool title for this one."
+    },
+    {
+        "name": "doodlin.webp",
+        "path": "uploads/doodlin.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/doodlin.webp",
+        "display_datetime": [
+            "2024-05-23(Thu)00:00",
+            1716422400
+        ],
+        "uploaded_at": 1759866886,
+        "description": "Doodlin' in the Living room\r\n\r\nI think there's an actual fish drawing I made that I based this on. Can't find it tho."
+    },
+    {
+        "name": "005.webp",
+        "path": "uploads/005.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/005.webp",
+        "display_datetime": [
+            "2024-08-12(Mon)00:00",
+            1723420800
+        ],
+        "uploaded_at": 1759867365,
+        "description": "005 - Mountainous Landscape\r\n\r\nOne of my favorite pieces still."
+    },
+    {
+        "name": "alienguy.png",
+        "path": "uploads/alienguy.png",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/alienguy.png",
+        "display_datetime": [
+            "2025-10-20(Mon)00:00",
+            1760918400
+        ],
+        "uploaded_at": 1759867719,
+        "description": "A commissioned album art for my friend, Joe Mega."
     }
 ]
