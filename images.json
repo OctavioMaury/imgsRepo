@@ -1,211 +1,24 @@
 [
     {
-        "name": "refugees2.png",
-        "path": "uploads/refugees2.png",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/refugees2.png",
+        "name": "0014.webp",
+        "path": "uploads/0014.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/0014.webp",
         "display_datetime": [
-            "2025-10-07(Tue)20:35",
-            1759869326
+            "2025-06-03(Tue)00:00",
+            1748908800
         ],
-        "uploaded_at": 1759869327,
-        "description": "wip"
+        "uploaded_at": 1759869474,
+        "description": "0014"
     },
     {
-        "name": "paintStudies2.webp",
-        "path": "uploads/paintStudies2.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/paintStudies2.webp",
+        "name": "paintStudies3.webp",
+        "path": "uploads/paintStudies3.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/paintStudies3.webp",
         "display_datetime": [
             "2025-02-20(Thu)00:00",
             1740009600
         ],
-        "uploaded_at": 1759869225,
-        "description": ""
-    },
-    {
-        "name": "celestialbodies.png",
-        "path": "uploads/celestialbodies.png",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/celestialbodies.png",
-        "display_datetime": [
-            "2025-01-03(Fri)00:00",
-            1735862400
-        ],
-        "uploaded_at": 1759869096,
-        "description": "Celestial Bodies"
-    },
-    {
-        "name": "inkScan-06.webp",
-        "path": "uploads/inkScan-06.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-06.webp",
-        "display_datetime": [
-            "2024-12-31(Tue)00:00",
-            1735603200
-        ],
-        "uploaded_at": 1759868974,
-        "description": ""
-    },
-    {
-        "name": "inkScan-03.webp",
-        "path": "uploads/inkScan-03.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-03.webp",
-        "display_datetime": [
-            "2024-12-31(Tue)00:00",
-            1735603200
-        ],
-        "uploaded_at": 1759868895,
-        "description": ""
-    },
-    {
-        "name": "inkScan-01.webp",
-        "path": "uploads/inkScan-01.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-01.webp",
-        "display_datetime": [
-            "2024-12-31(Tue)00:00",
-            1735603200
-        ],
-        "uploaded_at": 1759868841,
-        "description": ""
-    },
-    {
-        "name": "oni.png",
-        "path": "uploads/oni.png",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/oni.png",
-        "display_datetime": [
-            "2024-11-07(Thu)00:00",
-            1730937600
-        ],
-        "uploaded_at": 1759868312,
-        "description": "Orc smoking a pipe\r\n\r\nThis was a fun color study."
-    },
-    {
-        "name": "bigMutant.webp",
-        "path": "uploads/bigMutant.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/bigMutant.webp",
-        "display_datetime": [
-            "2025-10-21(Tue)00:00",
-            1761004800
-        ],
-        "uploaded_at": 1759867835,
-        "description": "Big Mutant with a Big Gun"
-    },
-    {
-        "name": "007.webp",
-        "path": "uploads/007.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/007.webp",
-        "display_datetime": [
-            "2024-09-17(Tue)00:00",
-            1726531200
-        ],
-        "uploaded_at": 1759867462,
-        "description": "007 - Twirling Clouds"
-    },
-    {
-        "name": "003.webp",
-        "path": "uploads/003.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/003.webp",
-        "display_datetime": [
-            "2024-08-10(Sat)00:00",
-            1723248000
-        ],
-        "uploaded_at": 1759867289,
-        "description": "003\r\n\r\nPart of the 'miscellaneous numbered' series.\r\nI dunno what this is either, but it came out kind of nice."
-    },
-    {
-        "name": "desMutant.webp",
-        "path": "uploads/desMutant.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/desMutant.webp",
-        "display_datetime": [
-            "2024-04-29(Mon)00:00",
-            1714348800
-        ],
-        "uploaded_at": 1759866524,
-        "description": "Desert Mutant\r\n\r\nI could never come up with a cool title for this one."
-    },
-    {
-        "name": "doodlin.webp",
-        "path": "uploads/doodlin.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/doodlin.webp",
-        "display_datetime": [
-            "2024-05-23(Thu)00:00",
-            1716422400
-        ],
-        "uploaded_at": 1759866886,
-        "description": "Doodlin' in the Living room\r\n\r\nI think there's an actual fish drawing I made that I based this on. Can't find it tho."
-    },
-    {
-        "name": "005.webp",
-        "path": "uploads/005.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/005.webp",
-        "display_datetime": [
-            "2024-08-12(Mon)00:00",
-            1723420800
-        ],
-        "uploaded_at": 1759867365,
-        "description": "005 - Mountainous Landscape\r\n\r\nOne of my favorite pieces still."
-    },
-    {
-        "name": "alienguy.png",
-        "path": "uploads/alienguy.png",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/alienguy.png",
-        "display_datetime": [
-            "2025-10-20(Mon)00:00",
-            1760918400
-        ],
-        "uploaded_at": 1759867719,
-        "description": "A commissioned album art for my friend, Joe Mega."
-    },
-    {
-        "name": "cig.png",
-        "path": "uploads/cig.png",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/cig.png",
-        "display_datetime": [
-            "2024-10-22(Tue)00:00",
-            1729555200
-        ],
-        "uploaded_at": 1759868157,
-        "description": "0012 - Cigarillo"
-    },
-    {
-        "name": "sneer.webp",
-        "path": "uploads/sneer.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/sneer.webp",
-        "display_datetime": [
-            "2024-11-07(Thu)00:00",
-            1730937600
-        ],
-        "uploaded_at": 1759868756,
-        "description": "Sneer"
-    },
-    {
-        "name": "inkScan-02.webp",
-        "path": "uploads/inkScan-02.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-02.webp",
-        "display_datetime": [
-            "2024-12-31(Tue)00:00",
-            1735603200
-        ],
-        "uploaded_at": 1759868870,
-        "description": ""
-    },
-    {
-        "name": "inkScan-04.webp",
-        "path": "uploads/inkScan-04.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-04.webp",
-        "display_datetime": [
-            "2024-12-31(Tue)00:00",
-            1735603200
-        ],
-        "uploaded_at": 1759868943,
-        "description": ""
-    },
-    {
-        "name": "inkScan-07.webp",
-        "path": "uploads/inkScan-07.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-07.webp",
-        "display_datetime": [
-            "2025-10-07(Tue)00:00",
-            1759795200
-        ],
-        "uploaded_at": 1759868999,
+        "uploaded_at": 1759869267,
         "description": ""
     },
     {
@@ -220,25 +33,223 @@
         "description": "Paint Study 1"
     },
     {
-        "name": "paintStudies3.webp",
-        "path": "uploads/paintStudies3.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/paintStudies3.webp",
+        "name": "inkScan-07.webp",
+        "path": "uploads/inkScan-07.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-07.webp",
+        "display_datetime": [
+            "2025-10-07(Tue)00:00",
+            1759795200
+        ],
+        "uploaded_at": 1759868999,
+        "description": ""
+    },
+    {
+        "name": "inkScan-04.webp",
+        "path": "uploads/inkScan-04.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-04.webp",
+        "display_datetime": [
+            "2024-12-31(Tue)00:00",
+            1735603200
+        ],
+        "uploaded_at": 1759868943,
+        "description": ""
+    },
+    {
+        "name": "inkScan-02.webp",
+        "path": "uploads/inkScan-02.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-02.webp",
+        "display_datetime": [
+            "2024-12-31(Tue)00:00",
+            1735603200
+        ],
+        "uploaded_at": 1759868870,
+        "description": ""
+    },
+    {
+        "name": "sneer.webp",
+        "path": "uploads/sneer.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/sneer.webp",
+        "display_datetime": [
+            "2024-11-07(Thu)00:00",
+            1730937600
+        ],
+        "uploaded_at": 1759868756,
+        "description": "Sneer"
+    },
+    {
+        "name": "cig.png",
+        "path": "uploads/cig.png",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/cig.png",
+        "display_datetime": [
+            "2024-10-22(Tue)00:00",
+            1729555200
+        ],
+        "uploaded_at": 1759868157,
+        "description": "0012 - Cigarillo"
+    },
+    {
+        "name": "alienguy.png",
+        "path": "uploads/alienguy.png",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/alienguy.png",
+        "display_datetime": [
+            "2025-10-20(Mon)00:00",
+            1760918400
+        ],
+        "uploaded_at": 1759867719,
+        "description": "A commissioned album art for my friend, Joe Mega."
+    },
+    {
+        "name": "005.webp",
+        "path": "uploads/005.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/005.webp",
+        "display_datetime": [
+            "2024-08-12(Mon)00:00",
+            1723420800
+        ],
+        "uploaded_at": 1759867365,
+        "description": "005 - Mountainous Landscape\r\n\r\nOne of my favorite pieces still."
+    },
+    {
+        "name": "doodlin.webp",
+        "path": "uploads/doodlin.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/doodlin.webp",
+        "display_datetime": [
+            "2024-05-23(Thu)00:00",
+            1716422400
+        ],
+        "uploaded_at": 1759866886,
+        "description": "Doodlin' in the Living room\r\n\r\nI think there's an actual fish drawing I made that I based this on. Can't find it tho."
+    },
+    {
+        "name": "desMutant.webp",
+        "path": "uploads/desMutant.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/desMutant.webp",
+        "display_datetime": [
+            "2024-04-29(Mon)00:00",
+            1714348800
+        ],
+        "uploaded_at": 1759866524,
+        "description": "Desert Mutant\r\n\r\nI could never come up with a cool title for this one."
+    },
+    {
+        "name": "003.webp",
+        "path": "uploads/003.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/003.webp",
+        "display_datetime": [
+            "2024-08-10(Sat)00:00",
+            1723248000
+        ],
+        "uploaded_at": 1759867289,
+        "description": "003\r\n\r\nPart of the 'miscellaneous numbered' series.\r\nI dunno what this is either, but it came out kind of nice."
+    },
+    {
+        "name": "007.webp",
+        "path": "uploads/007.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/007.webp",
+        "display_datetime": [
+            "2024-09-17(Tue)00:00",
+            1726531200
+        ],
+        "uploaded_at": 1759867462,
+        "description": "007 - Twirling Clouds"
+    },
+    {
+        "name": "bigMutant.webp",
+        "path": "uploads/bigMutant.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/bigMutant.webp",
+        "display_datetime": [
+            "2025-10-21(Tue)00:00",
+            1761004800
+        ],
+        "uploaded_at": 1759867835,
+        "description": "Big Mutant with a Big Gun"
+    },
+    {
+        "name": "oni.png",
+        "path": "uploads/oni.png",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/oni.png",
+        "display_datetime": [
+            "2024-11-07(Thu)00:00",
+            1730937600
+        ],
+        "uploaded_at": 1759868312,
+        "description": "Orc smoking a pipe\r\n\r\nThis was a fun color study."
+    },
+    {
+        "name": "inkScan-01.webp",
+        "path": "uploads/inkScan-01.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-01.webp",
+        "display_datetime": [
+            "2024-12-31(Tue)00:00",
+            1735603200
+        ],
+        "uploaded_at": 1759868841,
+        "description": ""
+    },
+    {
+        "name": "inkScan-03.webp",
+        "path": "uploads/inkScan-03.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-03.webp",
+        "display_datetime": [
+            "2024-12-31(Tue)00:00",
+            1735603200
+        ],
+        "uploaded_at": 1759868895,
+        "description": ""
+    },
+    {
+        "name": "inkScan-06.webp",
+        "path": "uploads/inkScan-06.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/inkScan-06.webp",
+        "display_datetime": [
+            "2024-12-31(Tue)00:00",
+            1735603200
+        ],
+        "uploaded_at": 1759868974,
+        "description": ""
+    },
+    {
+        "name": "celestialbodies.png",
+        "path": "uploads/celestialbodies.png",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/celestialbodies.png",
+        "display_datetime": [
+            "2025-01-03(Fri)00:00",
+            1735862400
+        ],
+        "uploaded_at": 1759869096,
+        "description": "Celestial Bodies"
+    },
+    {
+        "name": "paintStudies2.webp",
+        "path": "uploads/paintStudies2.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/paintStudies2.webp",
         "display_datetime": [
             "2025-02-20(Thu)00:00",
             1740009600
         ],
-        "uploaded_at": 1759869267,
+        "uploaded_at": 1759869225,
         "description": ""
     },
     {
-        "name": "0014.webp",
-        "path": "uploads/0014.webp",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/0014.webp",
+        "name": "refugees2.png",
+        "path": "uploads/refugees2.png",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/refugees2.png",
         "display_datetime": [
-            "2025-06-03(Tue)00:00",
-            1748908800
+            "2025-10-07(Tue)20:35",
+            1759869326
         ],
-        "uploaded_at": 1759869474,
-        "description": "0014"
+        "uploaded_at": 1759869327,
+        "description": "wip"
+    },
+    {
+        "name": "syntruslair.webp",
+        "path": "uploads/syntruslair.webp",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/syntruslair.webp",
+        "display_datetime": [
+            "2025-08-08(Fri)00:00",
+            1754611200
+        ],
+        "uploaded_at": 1759869606,
+        "description": "Commissioned banner art for my friend Syntrus on Newgrounds"
     }
 ]
