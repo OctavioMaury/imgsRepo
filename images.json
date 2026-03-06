@@ -11,6 +11,17 @@
         "description": "Characters for a comic"
     },
     {
+        "name": "whyBother.png",
+        "path": "uploads/whyBother.png",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/whyBother.png",
+        "display_datetime": [
+            "2026-03-06(Fri)00:00",
+            1772755200
+        ],
+        "uploaded_at": 1772766701,
+        "description": ""
+    },
+    {
         "name": "bigMutant.webp",
         "path": "uploads/bigMutant.webp",
         "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/bigMutant.webp",
@@ -286,14 +297,14 @@
         "description": "Desert Mutant\r\n\r\nI could never come up with a cool title for this one."
     },
     {
-        "name": "whyBother.png",
-        "path": "uploads/whyBother.png",
-        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/whyBother.png",
+        "name": "stairsguys.png",
+        "path": "uploads/stairsguys.png",
+        "url": "https://raw.githubusercontent.com/OctavioMaury/imgsRepo/master/uploads/stairsguys.png",
         "display_datetime": [
             "2026-03-06(Fri)00:00",
             1772755200
         ],
-        "uploaded_at": 1772766701,
-        "description": ""
+        "uploaded_at": 1772766725,
+        "description": "Hatching study"
     }
 ]
